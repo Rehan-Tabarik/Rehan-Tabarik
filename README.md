@@ -75,96 +75,60 @@ Electrical Engineering
                └── Advanced Electronics
 🛠️ Skills & Technologies
 ⚡ Electrical & Electronics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PCB%20Design-Basics-1f425f?style=for-the-badge&logo=easyeda" /> <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB6?style=for-the-badge&logo=kicad" /> <img src="https://img.shields.io/badge/Electronics-Engineering-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Signal%20Processing-Learning-success?style=for-the-badge" />
-
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/PCB%20Design-Basics-1f425f?style=for-the-badge&logo=easyeda" /> <img src="https://img.shields.io/badge/KiCad-PCB%20Design-314CB6?style=for-the-badge&logo=kicad" /> <img src="https://img.shields.io/badge/Electronics-Engineering-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Signal%20Processing-Learning-success?style=for-the-badge" /> </p>
 💻 Programming & Engineering Software
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/LTspice-Engineering-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/NI%20Multisim-Electronics-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/LTspice-Engineering-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/NI%20Multisim-Electronics-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> </p>
 📝 Technical & Creative Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </p>
 🤝 Professional Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Leadership-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Communication-28A745?style=for-the-badge" /> <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge" />
-
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Leadership-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Communication-28A745?style=for-the-badge" /> <img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge" /> </p>
 🔬 Featured Projects
-
-<table> <tr>
-
-<td width="50%">
-
+<table> <tr> <td width="50%">
 🤖 Arduino 4-DOF Robotic Arm
 
 A joystick-controlled robotic arm project developed using Arduino and servo motors.
 
 Focus: Robotics • Arduino • Servo Control • Embedded Systems
 
-</td>
-
-<td width="50%">
-
+</td> <td width="50%">
 🏠 Smart House Wiring System
 
 A practical electrical engineering project focused on designing and implementing a house wiring system.
 
 Focus: Electrical Wiring • Circuit Design • Safety
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
+</td> </tr> <tr> <td width="50%">
 ⚡ 220V AC → 5V DC Converter
 
 A power electronics project involving the conversion of 220V AC into a regulated low-voltage DC output.
 
 Focus: Power Electronics • Circuit Design • LTSpice
 
-</td>
-
-<td width="50%">
-
+</td> <td width="50%">
 🚧 Toll Plaza Tax System
 
 A C++ project designed to simulate a toll plaza tax collection system.
 
 Focus: C++ • Logic Design • Problem Solving
 
-</td>
-
-</tr> </table>
-
+</td> </tr> </table>
 📂 Project Repository
 🤖 Arduino 4-DOF Robotic Arm
+
 Rehan-Tabarik/Arduino-4DOF-Robotic-Arm
+
 🏠 Smart House Wiring System
+
 Rehan-Tabarik/Smart-House-Wiring-System
+
 ⚡ 220V AC to 5V DC Converter
+
 Rehan-Tabarik/220V-AC-to-5V-DC-Converter
+
 🚧 Toll Plaza Tax System
+
 Rehan-Tabarik/toll-plaza-tax-system
+
 🧠 Currently Learning
 ██████████████████░░  PCB Design
 ████████████████░░░░  Embedded Systems
@@ -181,35 +145,11 @@ Rehan-Tabarik/toll-plaza-tax-system
 📚 Continuously strengthening my Electrical Engineering fundamentals
 
 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rehan-Tabarik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-Tabarik&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rehan-Tabarik&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rehan-Tabarik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-Tabarik&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Rehan-Tabarik&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/> </div>
 🎯 My Engineering Goals
-
-<table> <tr> <td align="center">🔌<br><b>PCB Design</b></td> <td align="center">🤖<br><b>Robotics</b></td> <td align="center">💻<br><b>Embedded Systems</b></td> <td align="center">⚡<br><b>EV Technology</b></td> </tr> </table>
-
+<table> <tr> <td align="center"> 🔌 <br> <b>PCB Design</b> </td> <td align="center"> 🤖 <br> <b>Robotics</b> </td> <td align="center"> 💻 <br> <b>Embedded Systems</b> </td> <td align="center"> ⚡ <br> <b>EV Technology</b> </td> </tr> </table>
 🌱 Short-Term Goals
 Master professional PCB design workflows
 Build more advanced Arduino and embedded projects
@@ -222,14 +162,10 @@ Work on practical electronics projects
 My goal is to become an engineer capable of working across electronics, embedded systems, robotics, PCB design, and electric vehicle technologies, while continuously developing practical engineering solutions.
 
 🏆 Academic Profile
-
 <div align="center">
-
 🎓 Degree	🏫 University	📅 Batch	📊 GPA
 Bachelor of Electrical Engineering	PIEAS	2025–2029	3.80 / 4.00
-
 </div>
-
 🤝 Leadership & Community
 IEEE Volunteer
 
@@ -238,29 +174,21 @@ Actively interested in engineering communities, teamwork, leadership, and techni
 I believe engineering is not only about technical knowledge — it is also about:
 
 Communication + Collaboration + Leadership + Problem Solving
-
 💬 Let's Connect
-
 <div align="center">
-
 💡 Interested in Electronics, Robotics, PCB Design or Engineering Projects?
 
 Let's connect, collaborate and build something interesting! 🚀
 
-<a href="https://www.linkedin.com/in/rehan-tabarik-913189384/"> <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Tabarik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<br> <a href="https://www.linkedin.com/in/rehan-tabarik-913189384/"> <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Tabarik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="https://github.com/Rehan-Tabarik"> <img src="https://img.shields.io/badge/GitHub-Rehan--Tabarik-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+ 
 
-</div>
-
+<a href="https://github.com/Rehan-Tabarik"> <img src="https://img.shields.io/badge/GitHub-Rehan--Tabarik-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center">
-
 ⚡ Engineering isn't just about knowing how things work.
 🔧 It's about building things that work.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Rehan-Tabarik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br> <img src="https://komarev.com/ghpvc/?username=Rehan-Tabarik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
@@ -268,6 +196,34 @@ Let's connect, collaborate and build something interesting! 🚀
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:0066CC,100:001B44&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:0066CC,100:001B44&section=footer" width="100%"/> </div> ```
+What is included now
 
+Everything, in order:
+
+⚡ Animated engineering header
+🔗 LinkedIn + GitHub
+⌨️ Typing animation
+🚀 About Me
+🧑‍💻 Engineering Journey
+🛠️ Skills & Technologies
+⚡ Electrical & Electronics
+💻 Programming & Engineering Software
+📝 Technical & Creative Tools
+🤝 Professional Skills
+🔬 Featured Projects
+📂 Project Repository
+🧠 Currently Learning
+🔥 Current Focus
+📊 GitHub Statistics
+🐍 Contribution Snake
+🎯 Engineering Goals
+🌱 Short-Term Goals
+🚀 Long-Term Vision
+🏆 Academic Profile
+🤝 Leadership & Community
+💬 Let's Connect
+👁️ Profile Views
+⚡ Final engineering quote
+🌊 Animated foote
 </div>

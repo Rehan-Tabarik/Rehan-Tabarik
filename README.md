@@ -1,6 +1,8 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= ANIMATED ENGINEERING HEADER ======================= -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001B44,50:0066CC,100:00C6FF&text=REHAN%20TABARIK&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Electronics%20%7C%20Robotics%20%7C%20Embedded%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <img src="me.jpg" width="170" height="170" style="border-radius:50%;" alt="Rehan Tabarik"/>
 
@@ -8,7 +10,7 @@
 
 ### ⚡ Electrical Engineering Student | Electronics & Robotics Enthusiast
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rehan-tabarik-913189384/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/Rehan-Tabarik">
@@ -304,7 +306,7 @@ I believe engineering is not only about technical knowledge — it is also about
 
 **Let's connect, collaborate and build something interesting! 🚀**
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rehan-tabarik-913189384/">
 <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Tabarik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -329,5 +331,9 @@ I believe engineering is not only about technical knowledge — it is also about
 <br><br>
 
 **© 2026 Rehan Tabarik | Electrical Engineering | PIEAS**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:0066CC,100:001B44&section=footer" width="100%"/>
 
 </div>

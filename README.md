@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001B44,50:0066CC,100:00C6FF&text=REHAN%20TABARIK&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Electronics%20%7C%20Robotics%20%7C%20Embedded%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="me.jpg" width="170" height="170" style="border-radius:50%;" alt="Rehan Tabarik"/>
-
-# 👋 Hi, I'm **Rehan Tabarik**
-
 ### ⚡ Electrical Engineering Student | Electronics & Robotics Enthusiast
 
 <a href="https://www.linkedin.com/in/rehan-tabarik-913189384/">
